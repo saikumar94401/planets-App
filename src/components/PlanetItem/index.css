@@ -1,0 +1,20 @@
+.each-planet-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.each-planet-name {
+  color: white;
+  text-align: center;
+}
+
+.planet-image {
+  height: 300px;
+  width: 500px;
+  margin: auto;
+}
+
+.each-planet-description {
+  color: #f8fafc;
+  text-align: center;
+}
